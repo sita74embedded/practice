@@ -1,3 +1,6 @@
-#include#kjjnffdj
-fkmdenkl
-edrjcnje
+#include<stdio.h>
+int main(){
+printf("hello");
+return 0;
+
+}
